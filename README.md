@@ -1,4 +1,4 @@
-# Create-a-Static-Website-in-1-2-3
+# Deploy-a-Static-Website
 
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing.
 In this project, a static website has been deployed to AWS. create a S3 bucket and upload the website files to your bucket.
@@ -16,11 +16,12 @@ Services and Tools used:
 * AWS EKS - Backend API
 * AWS DynamoDB - Persistent Datastore
 * AWS Cognito - User Authentication
+
 ### Performance Tracking and DevOps Tools:
 * AWS CloudWatch - Performance and Health checks
 * Sentry - Bug Reporting
-
 * Google Analytics - Usage Reporting
+
 ### Alternates:
 * Mixpanel
 * Travis (CI/CD)
